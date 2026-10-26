@@ -1,0 +1,29 @@
+# Environment files
+.env
+*.env
+
+# Dependency directories
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Build and IDE files
+dist/
+build/
+.next/
+.idea/
+.vscode/
+*.swp
+*.log
+
+# Databases & local data
+data/
+qdrant_storage/
+postgres_data/
+
+# Binaries
+*.exe
+dev-assistant.exe

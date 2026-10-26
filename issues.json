@@ -1,0 +1,18 @@
+[
+  {
+    "id": "BUG-101",
+    "title": "Auth token expires too quickly",
+    "description": "JWT expiration is set to 5 minutes. Should be increased to 1 hour.",
+    "status": "Open",
+    "type": "Bug",
+    "created_at": "2026-07-08T12:00:00Z"
+  },
+  {
+    "id": "FEAT-201",
+    "title": "Add export to PDF for reports",
+    "description": "Allow users to download repository health audits in PDF format.",
+    "status": "In Progress",
+    "type": "Feature Request",
+    "created_at": "2026-07-08T14:30:00Z"
+  }
+]
